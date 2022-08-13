@@ -6,7 +6,7 @@
 
 //declaring array size 
 
-# define size 5
+# define size 10
 
 //declaring necessary variables
 
