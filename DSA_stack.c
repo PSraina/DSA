@@ -89,6 +89,7 @@ void pop()
 //*begin of display method
 void display()
 {
+    printf("\nElements present in the stack:\n");
     for(int i = top; i >= 0; i--)
         printf("\n%d\n", arr[i]);
 }
